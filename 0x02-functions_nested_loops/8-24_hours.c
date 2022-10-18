@@ -1,4 +1,5 @@
-#include "main.h"
+nclude "main.h"
+
 /**
 *jack_bauer - prints each minute of the day
 *Return:returns 0
@@ -18,4 +19,6 @@ _putchar((min / 10) + '0');
 _putchar((min % 10) + '0');
 _putchar(10);
 }
+}
+
 }
