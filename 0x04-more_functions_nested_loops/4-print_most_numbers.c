@@ -16,4 +16,3 @@ continue;
 _putchar(number);
 }
 _putchar(10);
-
